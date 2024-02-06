@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋, I'm Majd Selmi</h2>
-<h4 align="left">🚀 Passionate Full-Stack Software Developer dedicated to surpassing expectations and overcoming challenges in cutting-edge application development. Proven problem-solving skills, a collaborative mindset, and an unwavering commitment to excellence drive my continuous growth in the dynamic realm of software development. Seeking opportunities to apply my skills and push boundaries in a challenging and rewarding role.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

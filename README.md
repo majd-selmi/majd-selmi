@@ -4,7 +4,7 @@ Passionate Full-Stack Software Developer dedicated to surpassing expectations an
 
 Seeking opportunities to apply my skills and push boundaries in a challenging and rewarding role.
 
-## 🌐 Socials:
+## 🌐 Links:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majdselmi/)
 [![LeetCode](https://img.shields.io/badge/Leetcode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/majd-selmi/)

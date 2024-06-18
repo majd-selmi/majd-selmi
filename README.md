@@ -1,8 +1,6 @@
 ## 💫 About Me:
 
-Passionate Full-Stack Software Developer dedicated to surpassing expectations and overcoming challenges in cutting-edge application development.
-
-Seeking opportunities to apply my skills and push boundaries in a challenging and rewarding role.
+Passionate Full-Stack Software Developer with extensive experience in modern frontend and backend frameworks and technologies. Skilled in creating high-quality, responsive user interfaces and secure, scalable backend systems. Dedicated to continuous learning, innovative problem-solving, and delivering exceptional software solutions.
 
 ## 🌐 Links:
 

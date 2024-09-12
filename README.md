@@ -12,9 +12,9 @@ Passionate Full-Stack Software Developer with extensive experience in modern fro
 ```json
 {
     "languages": ["Java", "JavaScript", "TypeScript", "Python"],
-    "frontEnd":  ["Angular", "ReactJS"],
+    "frontend":  ["Angular", "ReactJS"],
     "styling": ["CSS", "SASS"],
-    "backEnd": ["Spring Boot", "Spring Security", "ExpressJS", "NestJS", "Flask"],
+    "backend": ["Spring Boot", "Spring Security", "ExpressJS", "NestJS", "Flask"],
     "tools": ["NPM", "Maven", "Docker", "Nginx"],
     "databases": ["MySQL", "PostgreSQL", "SQLServer", "MongoDB"],
     "versionControl": ["Git", "GitLab", "GitHub"]

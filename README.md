@@ -1,6 +1,5 @@
 ## Hey 👋, I'm Majd Selmi!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majdselmi/)
-[![LeetCode](https://img.shields.io/badge/Leetcode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/majd-selmi/)
 
 Passionate and versatile Full-Stack Developer with extensive experience in modern frontend and backend frameworks and technologies. Skilled in creating high-quality, responsive user interfaces and secure, scalable backend systems. Dedicated to continuous learning, innovative problem-solving, and delivering exceptional software solutions.
 

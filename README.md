@@ -1,8 +1,5 @@
-## Hey 👋, I'm Majd Selmi!
+## Hey 👋, I'm Majd!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majdselmi/)
-
-Passionate and versatile Full-Stack Developer with extensive experience in modern frontend and backend frameworks and technologies. Skilled in creating high-quality, responsive user interfaces and secure, scalable backend systems. Dedicated to continuous learning, innovative problem-solving, and delivering exceptional software solutions.
-
 ### 🔨 Languages and Tools:
 
 ```json

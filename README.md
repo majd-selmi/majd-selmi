@@ -1,7 +1,7 @@
 # Hey there, I'm Majd!
 **Full-Stack Developer | Problem Solver** 
 
-***Let's connect!*** — [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majdselmi/)
+***Let's connect!*** — [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/majdselmi/)
 
 <br>
 

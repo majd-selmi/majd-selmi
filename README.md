@@ -1,16 +1,13 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></img> Hey there, I'm Majd!
 
+<samp>I’m a passionate Full-Stack Developer with extensive professional experience, skilled in designing and building robust, scalable, and user-focused web applications — driven by curiosity, creativity, and a love for clean, impactful code.</samp>
+
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Majd%20Selmi-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/majdselmi/ "Connect on LinkedIn")
 [![Gmail Badge](https://img.shields.io/badge/majdselmi.official@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:majdselmi.official@gmail.com "Connect via Email")
 
-<samp>I’m a passionate Full-Stack Developer with extensive professional experience, skilled in designing and building robust, scalable, and user-focused web applications — driven by curiosity, creativity, and a love for clean, impactful code.</samp>
-- <samp>🤝 I believe great software comes from collaboration, empathy, and open communication.</samp>
-- <samp>🧠 I’m constantly exploring new technologies and best practices to grow as a developer.</samp>
-- <samp>🧩 I value clean, maintainable code.</samp>  
-
 ---
 
-## 🚀💻 Technologies & Tools
+### 🚀💻 Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=E76F00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)

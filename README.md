@@ -6,6 +6,9 @@
 * 🚀 Interested in clean architecture & distributed systems
 * 🌍 Open to exciting engineering opportunities
 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Majd%20Selmi-0A66C2?logo=linkedin-white\&logoColor=fff)](https://www.linkedin.com/in/majdselmi/ "Connect on LinkedIn")
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square\&logo=gmail\&logoColor=EA4335)](mailto:majdselmi.official@gmail.com "Send me an email")
+
 ---
 
 ### ⚡ Tech Stack
@@ -58,8 +61,3 @@
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square\&logo=docker\&logoColor=2496ED)
 ![Nginx](https://img.shields.io/badge/Nginx-000000?style=flat-square\&logo=nginx\&logoColor=009639)
 ![MQTT](https://img.shields.io/badge/MQTT-000000?style=flat-square\&logo=mqtt\&logoColor=660066)
-
----
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Majd%20Selmi-0A66C2?logo=linkedin-white\&logoColor=fff)](https://www.linkedin.com/in/majdselmi/ "Connect on LinkedIn")
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square\&logo=gmail\&logoColor=EA4335)](mailto:majdselmi.official@gmail.com "Send me an email")

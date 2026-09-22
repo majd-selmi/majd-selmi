@@ -6,8 +6,8 @@
 * 🚀 Interested in clean architecture & distributed systems
 * 🌍 Open to exciting engineering opportunities
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Majd%20Selmi-0A66C2?logo=linkedin-white\&logoColor=fff)](https://www.linkedin.com/in/majdselmi/ "Connect on LinkedIn")
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square\&logo=gmail\&logoColor=EA4335)](mailto:majdselmi.official@gmail.com "Send me an email")
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/My%20LinkedIn-0A66C2?logo=linkedin-white\&logoColor=fff)](https://www.linkedin.com/in/majdselmi/ "Connect on LinkedIn")
+[![Email](https://img.shields.io/badge/Send%20me%20an%20email-000000?style=flat-square\&logo=gmail\&logoColor=EA4335)](mailto:majdselmi.official@gmail.com "Send me an email")
 
 ---
 
